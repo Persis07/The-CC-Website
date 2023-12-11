@@ -25,7 +25,7 @@ function App() {
     { id: 7, image: DHsystem, title: 'Pharma', description: 'DH System', size: 'medium' },
     { id: 8, image: DHtiere, title: 'Packaging Design', description: 'DH Tiere', size: 'small' },
     { id: 9, image: MediceThumb, title: 'Project 10', description: 'Pharma', size: 'large' },
-    { id: 10, image: DreiMeister, title: 'Coporate Design', description: 'Dreimeister Katalog', size: 'medium' },
+    { id: 10, image: DreiMeister, title: 'Coporate Design', description: 'Dreimeister Katalog', size: 'large' },
   ];
 
 

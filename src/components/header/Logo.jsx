@@ -1,5 +1,5 @@
 import React from 'react';
-import CClogo from "../header/CClogo.png"
+import CClogo from "../header/CC-logo.png"
 
 const Logo = ({ width, marginRight, paddingTop }) => {
     const logoStyle = {
